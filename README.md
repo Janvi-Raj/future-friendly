@@ -1,2 +1,2 @@
 # future-friendly
-Author-Janvi Raj
+Author-Janvi singh
